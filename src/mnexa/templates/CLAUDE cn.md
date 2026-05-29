@@ -1,4 +1,3 @@
-```markdown
 # Vault 架构 (CLAUDE.md)
 
 ## 1. 身份定位

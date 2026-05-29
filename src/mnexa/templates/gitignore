@@ -1,0 +1,4 @@
+.mnexa/
+.env
+.env.*
+!.env.example
